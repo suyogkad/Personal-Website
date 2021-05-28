@@ -1,0 +1,32 @@
+body{	
+    background-color: lightgreen;
+    color: black;
+    font-size: 20px;
+    margin: 0;
+}
+.Opening h1{
+    background-color: black;
+    font-size: 30px;
+    color: #fff;
+}
+#navigation{
+	font-size:25px;
+	background-color: white;
+	padding: 10px;
+}
+#navigation li{
+	display:inline;
+	padding-right: 8px;
+}
+.initial{
+	/*background-color: black;*/
+	color:black;
+	font-size: 70px;
+	padding-right: 90px;
+}
+.main-content{
+	font-size: 50px;
+	padding-top: 40px;
+	padding-left: 50px;
+	padding-right: 50px;
+}

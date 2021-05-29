@@ -2,7 +2,7 @@ body{
     background-color: lightgreen;
     color: black;
     font-size: 20px;
-    margin: 0;
+    margin: 10px;
 }
 .Opening h1{
     background-color: black;
@@ -12,17 +12,23 @@ body{
 #navigation{
 	font-size:25px;
 	background-color: white;
-	padding: 10px;
+	padding: 5px;
 }
 #navigation li{
 	display:inline;
-	padding-right: 8px;
+	margin-left: 80px;
+	font-size: 30px;
+	clear: right;
 }
 .initial{
-	/*background-color: black;*/
-	color:black;
-	font-size: 70px;
-	padding-right: 90px;
+	background-color: lightgreen;
+	color:white;
+	font-size: 10px;
+	padding: 50px;
+	margin: 70px;
+	padding-right: 100px;
+	padding-left: 100px;
+
 }
 .main-content{
 	font-size: 50px;

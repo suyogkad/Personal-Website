@@ -1,0 +1,23 @@
+body{
+	background-color: lightgreen;	
+}
+.image{
+	display: flex;
+	justify-content: center;
+}
+.resume-box{
+	width: 800px;
+	height: 900px;
+	margin: 0 auto;
+	background-color: white;
+}
+.imgtext{
+	padding-bottom: 50px;
+	margin-left: 2px;
+	font-size: 26px;
+}
+#horizontal-line{
+	width: 100%;
+	height: 5px;
+	background-color: lightgreen;
+}

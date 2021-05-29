@@ -1,8 +1,0 @@
-body{
-	padding: 10px;
-}
-.images{
-	display: grid;
-	grid-template-columns: repeat(auto-fit, 400px, 1fr);
-    grid-gap: 5px;
-}

@@ -21,3 +21,47 @@ body{
 	height: 5px;
 	background-color: lightgreen;
 }
+img{
+	height: 30%;
+	width: 30%;
+}
+.header{
+	background-color: lightskyblue;
+	height: 100px;
+	text-align: center;
+	color: white;
+	padding: 1px;
+}
+.container{
+	padding: 1%;
+	box-sizing: border-box;
+	min-height: 500px;
+}
+.about{
+	background-color: floralwhite;
+	width: 30%;
+	float: left;
+}
+.education{
+	background-color: floralwhite;
+	float: left;
+	width: 40%;
+	padding-left: 30px;
+}
+.skills{
+	background-color: floralwhite;
+	width: 25%;
+	float: left;
+}
+
+.footer{
+	background-color: lightskyblue;
+	text-align: center;
+	height: 50px;
+	padding-top: 10px;
+	box-sizing: border-box;
+	clear: both;
+}
+h2{
+	text-align: center;
+}

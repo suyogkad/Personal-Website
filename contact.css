@@ -1,0 +1,39 @@
+body{
+	background-color: lightgreen;
+	font-size: 20px;	
+}
+#mainfield{
+	width: 80%;
+	margin: 50px;
+}
+#contactbox{
+	background-color: white;
+}
+.left{
+	flex-basis: 60%;
+	padding: 40px 60px;
+}
+.right{
+	flex-basis: 40%;
+	padding: 40px;
+	color: black;
+}
+h1{
+	margin-bottom: 20px;
+}
+.contactbox p{
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.input{
+    display: flex;
+	margin: 20px;
+}
+.right{
+	margin-top: 10px;
+	background-color: black;
+	color: white;
+}
+.button{
+	
+}

@@ -1,6 +1,9 @@
 body{
-	background-color: lightgreen;
-	font-size: 20px;	
+	/*background-color: lightgreen;*/
+	font-size: 20px;
+	background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;	
 }
 #mainfield{
 	width: 80%;
@@ -31,9 +34,49 @@ h1{
 }
 .right{
 	margin-top: 10px;
-	background-color: black;
+	background-color: lightseagreen;
 	color: white;
 }
-.button{
+/*.button{
 	
+}*/
+.footer{
+	background-color: black;
+	text-align: center;
+	height: 50px;
+	padding-top: 10px;
+	box-sizing: border-box;
+	clear: both;
+	color: white;
 }
+.aboutme{
+	padding-left: 17px;
+}
+/*nav{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 50px;
+	background-color: white;
+	box-shadow: 2px 2px 12px rgba(0, 0, 0, 2.0);
+	padding:0px 10%;
+}
+nav ul{
+	display: flex;
+}
+nav ul li a{
+	margin: 30px;
+	color: green;
+	font-size: 30px;
+}
+#navigation{
+	font-size:25px;
+	background-color: white;
+	/*padding: 5px;*/
+}
+/*#navigation li{
+	display:inline;
+	margin-left: 80px;
+	font-size: 30px;
+	clear: right;
+}*/

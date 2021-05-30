@@ -1,5 +1,8 @@
 body{
-	background-color: lightgreen;	
+	/*background-color: lightgreen;	*/
+	background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 }
 .image{
 	display: flex;

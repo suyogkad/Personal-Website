@@ -54,8 +54,24 @@ img{
 	display: flex;
 	justify-content: center;
 }
-/*#horizontal-line{
-	width: 20px;
+#container{
+	padding: 1%;
+	box-sizing: border-box;
+	min-height: 500px;
+	display: flex;
+}
+.about{
+	background-color: white;
+	width: 40%;
+	float: left;
+	margin: 2px;
+	padding-left: 20px;
+}
+.footer{
+	background-color: lightskyblue;
+	text-align: center;
 	height: 50px;
-	background-color: black;
-}*/
+	padding-top: 10px;
+	box-sizing: border-box;
+	clear: both;
+}

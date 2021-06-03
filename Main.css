@@ -66,3 +66,11 @@ nav ul li a{
 	box-sizing: border-box;
 	clear: both;
 }
+img{
+	margin: 1px;
+}
+.welcome{
+	float: left;
+	display: flex;
+	padding-left: 40%;
+}

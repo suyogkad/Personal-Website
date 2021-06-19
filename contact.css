@@ -49,10 +49,18 @@ h1{
 .aboutme{
 	padding-left: 17px;
 }
+label.title{
+	color: white;
+	font-size: 35px;
+	line-height: 80px;
+	padding: 0 100px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
 nav{
 	background-color: #0082e6;
 	height: 80px;
-	width: 84.4%;
+	margin-left: 48px;
 }
 nav ul{
 	float: right;
@@ -63,12 +71,10 @@ nav ul li{
 	line-height: 80px;
 	margin-right:10px ;
 	margin-left: 10px;
-
 }
 nav ul li a{
 	color: white;
 	font-size: 20px;
 	text-transform: uppercase;
-	border-radius: 3px;
 	padding: 7px 13px;
 }

@@ -6,7 +6,7 @@ body{
     background-attachment: fixed;	
 }
 #mainfield{
-	width: 80%;
+	width: 89%;
 	margin: 50px;
 }
 #contactbox{
@@ -53,7 +53,8 @@ label.title{
 	color: white;
 	font-size: 35px;
 	line-height: 80px;
-	padding: 0 100px;
+	/*padding: 0 100px;*/
+	padding-left: 15px;
 	font-weight: bold;
 	text-transform: uppercase;
 }
@@ -61,20 +62,24 @@ nav{
 	background-color: #0082e6;
 	height: 80px;
 	margin-left: 48px;
+	margin-right: 80px;
 }
 nav ul{
 	float: right;
 	margin-right: 20px;
+	padding-left: 80px;
 }
 nav ul li{
-	display: inline-block;
-	line-height: 80px;
-	margin-right:10px ;
+	display: inline-flex;
+	line-height: 50px;
+	margin-right:1px ;
 	margin-left: 10px;
+	padding-left: 30px;
 }
 nav ul li a{
 	color: white;
 	font-size: 20px;
 	text-transform: uppercase;
-	padding: 7px 13px;
+	padding-left: 10px;
+	padding-right: 10px;
 }

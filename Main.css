@@ -69,8 +69,3 @@ nav ul li a{
 img{
 	margin: 1px;
 }
-.welcome{
-	float: left;
-	display: flex;
-	padding-left: 40%;
-}

@@ -38,13 +38,14 @@ h1{
 	color: white;
 }
 .footer{
-	background-color: black;
+	background-color: lightskyblue;
 	text-align: center;
 	height: 50px;
 	padding-top: 10px;
 	box-sizing: border-box;
 	clear: both;
-	color: white;
+	color: black;
+	margin-top: 5px;
 }
 .aboutme{
 	padding-left: 17px;
@@ -82,4 +83,7 @@ nav ul li a{
 	text-transform: uppercase;
 	padding-left: 10px;
 	padding-right: 10px;
+}
+a{
+	text-decoration: none;
 }

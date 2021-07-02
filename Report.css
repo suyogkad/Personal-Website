@@ -46,10 +46,14 @@ nav ul li a{
 	flex-basis: 100%;
 	padding: 40px;
 	color: white;
-	background-color: black;
+	background-color: darkslategrey;
 }
 h1{
 	margin-bottom: 20px;
+}
+
+img{
+	margin-bottom: 2%;
 }
 .footer{
 	background-color: skyblue;
@@ -60,4 +64,7 @@ h1{
 	clear: both;
 	color: black;
 	margin-top: 5px;
+}
+a{
+	text-decoration: none;
 }

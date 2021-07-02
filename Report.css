@@ -47,6 +47,14 @@ nav ul li a{
 	padding: 40px;
 	color: white;
 	background-color: darkslategrey;
+	margin-top: 5px;
+}
+.module{
+	margin-top: 5px;
+	flex-basis: 100%;
+	padding: 40px 60px;
+	background-color: silver;
+	color: black;	
 }
 h1{
 	margin-bottom: 20px;

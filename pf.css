@@ -18,38 +18,33 @@ section{
 	color: lightgoldenrodyellow;
 	font-size: 30px;
 	padding-left: 12px;
-	margin-left: 42%;
+	margin-left: 46%;
 }
 .text-container p:nth-child(2){
 	color: lightgoldenrodyellow;
 	font-size: 50px;
 	padding-left: 12px;
-	margin-left: 30%;
+	margin-left: 33%;
 }
 .text-container p:nth-child(3){
 	color: lightgoldenrodyellow;
 	font-size: 30px;
 	padding-left: 12px;
-	margin-left: 33%;
+	margin-left: 37%;
 }
 .text-container p{
 	line-height: 0px;
 	margin: 45px 0px 25px;
 	margin-left: 40%;
 }
-.text-container button{
-	width: 130px;
-	height: 40px;
-	border-radius: 10px;
-	font-size: 15px;
-	margin: 10px 10px;
-	margin-left: 40%;
-}
 .downcv{
-	color: black;
-	margin-left: 40%;
+	background-color: pink;
+	color: whitesmoke;
+	text-align: center;
+	margin-left: 43%;
+	margin-right: 40%;
+	margin-bottom: 20px;
 }
-
 img{
 	height: 30%;
 	width: 98.8%;

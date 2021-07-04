@@ -29,8 +29,8 @@ section{
 .text-container p:nth-child(3){
 	color: lightgoldenrodyellow;
 	font-size: 30px;
-	padding-left: 12px;
-	margin-left: 37%;
+	padding-left: 8px;
+	margin-left: 31%;
 }
 .text-container p{
 	line-height: 0px;

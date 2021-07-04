@@ -6,14 +6,15 @@
 	box-sizing: border-box;
 }
 body{	
-    /*background-color: lightgreen;*/
-    background-image: url(bg.jpg);
+    background-image: url(bg.jpg);/*These CSS Codes on line 9 were used as reference from W3schools.com:
+    Web Link: https://www.w3schools.com/cssref/pr_background-image.asp*/
     background-size: cover;
     background-attachment: fixed;
-    color: black;
     font-size: 20px;
     margin: 10px;
 }
+/*Using these CSS codes on line 18 to 48 for navigation bar was inspired by CodingNepal channel on YouTube:Video Link: https://www.youtube.com/watch?v=oLgtucwjVII&t=210s
+[Uploaded on: Aug 9, 2019]*/
 label.title{
 	color: white;
 	font-size: 35px;

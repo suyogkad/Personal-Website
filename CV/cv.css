@@ -9,6 +9,11 @@ body{
 	justify-content: center;
 	width: 100%;
 }
+/*These CSS codes listed below for making a resume box on line 17 to 22 was inspired by 
+Online Tutorials channel on YouTube: 
+Video Link: https://www.youtube.com/watch?v=hnjHCmaUVPg
+[Uploaded on: May 1, 2021]
+*/
 .resume-box{
 	width: 850px;
 	height: 900px;

@@ -31,6 +31,10 @@ h1{
 .input{
     display: flex;
 	margin: 20px;
+	padding-right: 20px;
+}
+.input-field{
+	padding-right: 10px;
 }
 .right{
 	margin-top: 10px;
@@ -86,4 +90,11 @@ nav ul li a{
 }
 a{
 	text-decoration: none;
+}
+button{
+	margin-left: 5px;
+}
+.credentials{
+	font-size: 28px;
+	padding-left: 20px;
 }
